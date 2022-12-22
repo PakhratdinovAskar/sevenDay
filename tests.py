@@ -1,3 +1,0 @@
-import weather
-
-weather.main()
